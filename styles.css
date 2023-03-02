@@ -133,6 +133,7 @@ a:hover{
 }
 
 dl, ol, main ul{
+	width: 55ch;
 	/* limit the width of these lists to 55 characters */
 	margin: 1rem auto;
 }
